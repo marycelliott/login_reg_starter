@@ -1,2 +1,4 @@
 .vscode/
 venv/
+main/main/__pycache__/
+main/users/__pycache__/
